@@ -1,0 +1,49 @@
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.exe
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.deps.json
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.runtimeconfig.json
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.runtimeconfig.dev.json
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.pdb
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.AssemblyInfoInputs.cache
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.AssemblyInfo.cs
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.CoreCompileInputs.cache
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.CopyComplete
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.dll
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.pdb
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.genruntimeconfig.cache
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text_Based_Game.Properties.Resources.resources
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.GenerateResource.cache
+C:\Users\Marqu\source\repos\Text Based Game\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.AssemblyReference.cache
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.AssemblyReference.cache
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text_Based_Game.Properties.Resources.resources
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.GenerateResource.cache
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.AssemblyInfoInputs.cache
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.AssemblyInfo.cs
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.CoreCompileInputs.cache
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.pdb
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.exe
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.deps.json
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.runtimeconfig.json
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.runtimeconfig.dev.json
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Text Based Game.pdb
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.csproj.CopyComplete
+C:\Users\Marqu\Desktop\Text Based Game v1.2\Text Based Game v1.1\Text Based Game\obj\Release\netcoreapp3.1\Text Based Game.genruntimeconfig.cache
